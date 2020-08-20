@@ -19,3 +19,7 @@ Debes seguir el C√≥digo de honor del ingeniero de sistemas para defender el est√
 ![alt text](img/1.PNG)
 
 ![alt text](img/2.PNG)
+
+## Autor
+
+* **Santiago Vega Romero**  - [svega99](https://github.com/svega99)
